@@ -81,7 +81,6 @@ Python과 Java를 기반으로
   <img src="https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white"/>
   <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white"/>
   <img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonwebservices&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Apache_Airflow-017CEE?style=flat-square&logo=apacheairflow&logoColor=white"/>
   <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white"/>
 </p>
 
@@ -149,17 +148,6 @@ RAG를 활용해 부동산 관련 정보를 제공하도록 구현했습니다.
 * AI 모델과 웹 서비스를 안정적으로 연결하는 방법
 * 테스트와 자동화를 활용한 서비스 운영
 
----
-
-## 📊 GitHub Stats
-
-<div align="center">
-
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=hwarange&show_icons=true&hide_border=true&theme=transparent&count_private=true"/>
-
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hwarange&layout=compact&hide_border=true&theme=transparent"/>
-
-</div>
 
 ---
 
